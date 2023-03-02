@@ -1,4 +1,4 @@
-"departure","return","departure_id","departure_name","return_id","return_name","distance (m)","duration (sec.)","avg_speed (km/h)","departure_latitude","departure_longitude","return_latitude","return_longitude","Air temperature (degC)"
+"departure","return","departure_id","departure_name","return_id","return_name","distance","duration","avg_speed","departure_latitude","departure_longitude","return_latitude","return_longitude","temperature"
 2019-04-01 08:39:31,2019-04-01 08:44:19,539,"Aalto-yliopisto (M), Tietotie",537,"Innopoli",396,192,0.12375,60.184987,24.820099,60.185096,24.81422,1.9
 2019-04-01 08:49:25,2019-04-01 08:55:59,539,"Aalto-yliopisto (M), Tietotie",541,"Aalto-yliopisto (M), Korkeakouluaukio",447,389,0.0689460154241645,60.184987,24.820099,60.184312,24.826671,1.9
 2019-04-01 08:53:04,2019-04-01 08:58:34,539,"Aalto-yliopisto (M), Tietotie",553,"Metsänneidonpolku",951,313,0.182300319488818,60.184987,24.820099,60.186731,24.806152,1.9
