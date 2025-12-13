@@ -33,6 +33,6 @@ SOO, in this series of posts, I will try to achieve two things:
 * document the process of creating the new version of the https://alexpoov.com/ website. 
 * structure the documents by subject topics.
 
-Ultimately, I want to create a multiple-entrance-network-like visual guide over my experience, so it can be both engaging and easy-to-follow for everyone who will find this materials in the internet. 
+Ultimately, I want to create a multiple-entrance-network-like visual guide over my experience, so it can be both engaging and easy-to-follow for everyone who will find this materials in the internet. Importantly, this should not be an independent set of learning materials. I will reference a lot of external materials that I like the most, explaining only those steps that are directly connected to my design and implementation decisions. So, if these materials will ever see the light: it's supplementary notes, not instructions. 
 
-Let's do it!
+Whooh, I guess that's it. Let's do it!
