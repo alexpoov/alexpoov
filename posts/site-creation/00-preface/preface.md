@@ -30,9 +30,9 @@ Anyway, back to mosaiks. Here a shotout to my [masters programe](https://spb.hse
 ### Statement of Objectives
 
 SOO, in this series of posts, I will try to achieve two things:
-* document the process of creating the new version of the https://alexpoov.com/ website. 
-* structure the documents by subject topics.
+* create a website
+* document the process of creating in engaging and structured way.
 
-Ultimately, I want to create a multiple-entrance-network-like visual guide over my experience, so it can be both engaging and easy-to-follow for everyone who will find this materials in the internet. Importantly, this should not be an independent set of learning materials. I will reference a lot of external materials that I like the most, explaining only those steps that are directly connected to my design and implementation decisions. So, if these materials will ever see the light: it's supplementary notes, not instructions. 
+It's all clear with the first point. With the second one, ultimately, I want to create a multiple-entrance-network-like visual guide over my experience, so it can be both interesting and easy-to-follow for everyone who will find this materials in the global web. Importantly, this should not be an independent set of learning materials. I will reference a lot of external materials that I like the most, explaining only those steps that are directly connected to my design and implementation decisions. So, if these materials will ever see the light: it's supplementary notes, not instructions. 
 
 Whooh, I guess that's it. Let's do it!

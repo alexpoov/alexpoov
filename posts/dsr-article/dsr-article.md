@@ -1,3 +1,7 @@
+# Co-aligning ICT Experiences
+
+## Introduction 
+
 Purpose of this article targets 2 goals based on Hevner's (2007) DSR Cycles:
 
 - relevance cycle (to IMPROVE the environment (identify opportunities and problems, evaluation)): provide a detailed and beginner-friendly overview of a well-studied problem, which is creation of websites - artifact;
@@ -6,9 +10,10 @@ Purpose of this article targets 2 goals based on Hevner's (2007) DSR Cycles:
 
     - max (INVENT): set systems of sufficient competences on PoVs and determine interactions and conflicts between these PoVs. ideally -  in the form of causal model <3 - methodological???. -->
 
-https://educhi2020.educhi.org/wp-content/uploads/2020/04/educhi2020-final38.pdf 
+The idea is mostly inherited from my MSc degree learning design, continuing the dialogue on the co-alignment of different fields while taking into account students’ and instructors’ perceptions ([Musabirov et.al., 2020](https://educhi2020.educhi.org/wp-content/uploads/2020/04/educhi2020-final38.pdf)).
 
-* collaborative environment 
+
+* collaborative environment for diverse people - the growing amount of PEOPLE IN THE WORLD IN GENERAL devalues traditional patchwork-like curricula and redirect learning design towards smt like 4C/ID - something relevant, engaging, and clear.
 * trade-offs between design requirements and architecture
 * "transcend the patchwork nature of traditional course-based curricula, in which course boundaries
 define and restrict the scope of students’ work"

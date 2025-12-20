@@ -1,0 +1,57 @@
+# Idea of the place
+
+The biggest challenge for me to begin this project was to understand what am I going for. This [Design Squiggle](https://thedesignsquiggle.com/about) analogy I found one day is accurately represent, and it starts with "research and synthesis". 
+
+User-eXperience (or simply UX) research methods are great at producing data and insights. Companies are doing all sorts of UX research for this purpose - from branding to every small icon and text. 
+
+Personal webpages doesn't require to run tonnes of interviews and A/B tests to clarify the direction. Still, some things a better to be started off with the most fundamental questions you can think about:
+
+### What do I do?
+    
+* **what is it?**
+
+    To put simply, it's a **personal website**.
+
+    But I don't want to treat it like another website in the global Internet - especially now, when AI generated content [has surpassed](https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans) human-made things. Moreover, I already had a personal site on Github Pages - trust me, I have no desire to update somethings I'm not relating to. 
+    
+    Instead, I want to create my site as a **small digital world** that can reflect parts of both professional and personal identity that I care to show to the world. This is why I'm setting an ambitious goal to **combine 2  different identities** under a single site's hood: one for me as a professional (cv, projects, milestones, etc), and another for all my hobbies, starting with photography.  
+
+* **what it is not?**
+
+    It's definitely not a set-and-forget visiting card. It's not a static site that you need to edit html every time you want to update it. 
+
+### Why I do it?
+
+* **for whom?**
+
+    I understand for 100% percent that this website won't be a place that people will land on from google or whatever. Initially, my plan is to have a digital sandbox that I can show to someone. Thus, it's supposed to serve a certain audience:
+
+    * I me and myself, for practicing my (a) structuring all the stuff in my life and (b) practicing ICT skills;
+
+    * my friends and family, for seeing what I want to share with them. It will be links to particular pages containing photos or texts I want to show, so I need to keep them clean and [preview-able](https://wingch-apps.medium.com/how-can-get-link-preview-like-whatsapp-telegram-33297af405e6) in our communications channels;
+
+    * my colleagues, students,  collaborators and *potential* HR-s, to see my portfolio and either learn something new from it, or have an image of my spheres of interest.
+
+* **for what reason?**
+
+    Something, where I have a full control over my self-expression - in textual, coding, visual, and interaction formats.
+
+_____
+
+*Bonus section:* answering the question "how" on the stage of ideating is something that I personally feel counterproductive to follow further, but that can be a nice `init` of processes that *you think* will be done:
+
+### How do I do?
+    
+* **when?**
+
+    In my free of work time as some hustle I'm enjoying to do.
+
+    Timewise, I have an ultimate desire to tie it to the opening of UiB's INF110 course that ny academic advisor is developing right now, which is Autumn'26. But first and foremost, this is my hobby, and second, I hate deadlines, so I will do it in my tempo, with all the ensuing pauses and stagnations.
+
+* **where?**
+
+    For the start, I'll write my journey in `.md` files and store it in my [GitHub repo](https://github.com/alexpoov/alexpoov). For prototypes, I'm enjoying Figma - UX designer's modern standard. As for tech stack, I'm not sure where I will host it - maybe some remote server or Raspberry Pi or something debian containing. WHat I know is that site will support smt like customized Pandoc for easy blogposts update, and have a photogallery (no even hypothetical solution for that rn). 
+
+    The developing will take part on my beloved PC that I built in September'25 and I like so much. *Funny thing: first time in my life I've intentionally set linux OS instead of anything I had previously on my personal computer for the same reasons I'm doing this series of posts - to skill up*. 
+    
+
