@@ -1,3 +1,5 @@
+[//]: # this chapter can start both dsgn and research subroots of design root. under dsgn u go to prototypes and stuff. under research u go to user stories and feature (ex-competitor) review (best practicves of photogalleries, posts, objects, etc.)
+
 # Idea of the place
 
 The biggest challenge for me to begin this project was to understand what am I going for. This [Design Squiggle](https://thedesignsquiggle.com/about) analogy I found one day is accurately represent, and it starts with "research and synthesis". 

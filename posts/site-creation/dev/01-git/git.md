@@ -1,3 +1,5 @@
+[//] <> this can be an intersection with design
+
 1. `.gitignore` ([src](https://docs.github.com/en/get-started/git-basics/ignoring-files))
 2. maser to main - inspiration to where to start with git:
 
