@@ -7,9 +7,9 @@ Suddenly I realised that all the ideas I was postponing through the semester are
 ### My motivation
 
 A long dream of mine was to wrap everything I know intro some digital project. 
-First, for the 7 years of studing technologies, from Data Science to HCI to CS, I kinda lost the track of what I can do. Making something from the scratch would ensure me that ~~my edducation was not a total waste~~ I'm able to deliver versatile digital project from idea to its final form, that I actually can do stuff.
-Second, the ideas of sustainability in nowadays digital world started to bother me. I never thought about it before a keynote from [Anne-Kathrin](https://linkedin.com/in/anne-kathrin-peters-230284). The reality I that big tech driven web becomes less and less user-friendly. Once an advokate of many services I likes, I cannot get along with Spotify API access restrictions, Google ads policy or Telegram ethical concerns, to name a few. This doesn't imply that I'm free from it once and forever - no one denied the power of the network effect. Still, I want to limit both the amount and depth of my digital identities, and having self-created web project for that seems like a good idea.
-Finally, let's face the truth: I am (without 546 first days of my life) a child of XXI century. Spending a good half of the time online is something natural for me. It would be nice to spend it at home though, not on constant visits to other services. 
+1. For the 7 years of studing technologies, from Data Science to HCI to CS, I kinda lost the track of what I can do. Making something from the scratch would ensure me that ~~my edducation was not a total waste~~ I'm able to deliver versatile digital project from idea to its final form, that I actually can do stuff.
+2. The ideas of sustainability in nowadays digital world started to bother me. I never thought about it before a keynote from [Anne-Kathrin](https://linkedin.com/in/anne-kathrin-peters-230284). The reality I that big tech driven web becomes less and less user-friendly. Once an advokate of many services I likes, I cannot get along with Spotify API access restrictions, Google ads policy or Telegram ethical concerns, to name a few. This doesn't imply that I'm free from it once and forever - no one denied the power of the network effect. Still, I want to limit both the amount and depth of my digital identities, and having self-created web project for that seems like a good idea.
+3. Finally, let's face the truth: I am (without 546 first days of my life) a child of XXI century. Spending a good half of the time online is something natural for me. It would be nice to spend it at home though, not on constant visits to other services. 
 
 ### My barriers
 
@@ -28,6 +28,8 @@ It feels weird to put such personal comments to the web... But let it be a littl
 Anyway, back to mosaiks. Here a shotout to my [masters programe](https://spb.hse.ru/en/ma/computer/) for showing all the angles of working with digital things. They even tried to [syncronize](https://educhi2020.educhi.org/wp-content/uploads/2020/04/educhi2020-final38.pdf ) the curriculum to reduce the sparsity of meaning to center multiple courses aroung single students project. Let it be my new attempt to rethink that.
 
 ### Statement of Objectives
+
+<!-- An output is a product or service that you create; an outcome is the problem that you solve with that product.  -->
 
 SOO, in this series of posts, I will try to achieve two things:
 * create a website

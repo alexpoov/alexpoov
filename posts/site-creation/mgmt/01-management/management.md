@@ -1,4 +1,4 @@
-# The World of Planning under Uncertainty
+# Management
 
 Initializing management root of this series was one of the most confusing things to do, as: 
 
@@ -8,7 +8,7 @@ Initializing management root of this series was one of the most confusing things
 
 2. Management of a single process is highly cognitive actitivy that rarely described in details.
 
-    This is why, I think, I allow myself to be a bit loose in this section, hoping between rEaL product management foundations and perspectives of self-management. 
+    This is why, I think, I allow myself to be a bit loose in this section, hoping between rEaL project management foundations and perspectives of self-management. 
 
 ---
 
