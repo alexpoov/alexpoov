@@ -1,0 +1,1 @@
+- [ ] narrative: not enough structure - would be nice to have sotry about the topic, story about practice. how to implement this? 

@@ -2,21 +2,30 @@
 
 ## Introduction 
 
-Purpose of this article targets 2 goals based on Hevner's (2007) DSR Cycles:
+### DSR Approach
 
-- relevance cycle (to IMPROVE the environment (identify opportunities and problems, evaluation)): provide a detailed and beginner-friendly overview of a well-studied problem, which is creation of websites - artifact;
+The purpose of this article targets 2 goals based on Hevner's (2007) DSR Cycles:
 
-- rigor cycle (draw on ref.theories and state of the art, add to them): provide detailed, systematic and illustrative (potentially - interactive (pudding? vizes?)) mapping of multiple points of views on this process - system thinking, design thinking, complexity and project management - empirical?;
+**Relevance cycle**. To IMPROVE the environment (identify opportunities and problems, evaluation): provide a detailed and beginner-friendly overview of a well-studied problem, which is
+    * a. creation of websites - artifact;
+    * b. learning design and modeling - process.
 
-    - max (INVENT): set systems of sufficient competences on PoVs and determine interactions and conflicts between these PoVs. ideally -  in the form of causal model <3 - methodological???. -->
+**Rigor Cycle**: draw on ref.theories and state of the art, add to them: provide detailed, systematic and illustrative (potentially - interactive (pudding? vizes?)) mapping of multiple points of views on this process.
+
+    * validation of evidence-based approachs of how causal evidence and discovery on syllabus courses can inform innovations of learning design, specifically - old-school curricula.
+        - from causality: like a design squiqqle, but causal!
+        - from learning sciences perspective, collaborative environment for diverse people - the growing amount of PEOPLE IN THE WORLD IN GENERAL devalues traditional patchwork-like curricula and redirect learning design towards smt like 4C/ID - something relevant, engaging, and clear. "transcend the patchwork nature of traditional course-based curricula, in which course boundaries define and restrict the scope of students’ work"
+
+    * causal model of domains interactions - triangular start-where-you-want tree progression: system thinking, design thinking, project thinking. from basics prerequisites  to cross-disciplinary. 
+        - from HCI: find a nice way of interacting with learner through "tracing".
+        - from applied causality perspective: transparency of causality through visualisation 
+        - from ICT domain: observable trade-offs between design requirements and architecture.
+
+    * max (INVENT): set systems of sufficient competences on PoVs and determine interactions and conflicts between these PoVs. progressive complexity through the causal hierarchy. 
+        - preliminary tests on sondre's PIKA. 
 
 The idea is mostly inherited from my MSc degree learning design, continuing the dialogue on the co-alignment of different fields while taking into account students’ and instructors’ perceptions ([Musabirov et.al., 2020](https://educhi2020.educhi.org/wp-content/uploads/2020/04/educhi2020-final38.pdf)).
 
-
-* collaborative environment for diverse people - the growing amount of PEOPLE IN THE WORLD IN GENERAL devalues traditional patchwork-like curricula and redirect learning design towards smt like 4C/ID - something relevant, engaging, and clear.
-* trade-offs between design requirements and architecture
-* "transcend the patchwork nature of traditional course-based curricula, in which course boundaries
-define and restrict the scope of students’ work"
 
 ![alt text](img/dsr-stages.png)
 
