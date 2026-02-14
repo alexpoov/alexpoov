@@ -1,12 +1,14 @@
 [//]: # this chapter can start both dsgn and research subroots of design root. under dsgn u go to prototypes and stuff. under research u go to user stories and feature (ex-competitor) review (best practicves of photogalleries, posts, objects, etc.)
 
+It is very hard to conceptualize the creative process. In fact, it is very gradual, like [Bob Ross' paintings](https://www.youtube.com/watch?v=GpA9UM7QGag).
+
+Suddenly, neon lights of thought highlighted 2 years of my masters studies. "Of course!", thought I, today, we're going to try to unpach a Design Science Theories and their most common industrial applications. 
+
 # Discovery: Idea of the place
 
 The biggest challenge for me to begin this project was to understand what am I going for. This [Design Squiggle](https://thedesignsquiggle.com/about) analogy I found one day is accurately represent, and it starts with "research and synthesis". 
 
-User-eXperience (or simply UX) research methods are great at producing data and insights. Companies are doing all sorts of UX research for this purpose - from branding to every small icon and text. 
-
-Personal webpages doesn't require to run tonnes of interviews and A/B tests to clarify the direction. Still, some things a better to be started off with the most fundamental questions you can think about:
+Personal webpages doesn't require to run tonnes of research and tests to infer correct way to guide how things will develop. Everything starts with the idea. Still, some things a better to be started off with the most fundamental questions you can think about:
 
 ### What do I do?
     
@@ -20,7 +22,8 @@ Personal webpages doesn't require to run tonnes of interviews and A/B tests to c
 
 * **what it is not?**
 
-    It's definitely not a set-and-forget visiting card. It's not a static site that you need to edit html every time you want to update it. 
+    - It's definitely not a set-and-forget visit card   
+    - It's not a static site that you need to edit html every time you want to update it. 
 
 ### Why I do it?
 
@@ -38,22 +41,29 @@ Personal webpages doesn't require to run tonnes of interviews and A/B tests to c
 
     Something, where I have a full control over my self-expression - in textual, coding, visual, and interaction formats.
 
+### Structure of the chapter:
+
+- chapters [3-6] will be about user and context research,  
+- [7-10] is where we go creative (and descriptive), and  - [11-12] is how we going to implement it. 
+
 _____
 
-*Bonus section:* answering the question "how" on the stage of ideating is something that I personally feel counterproductive to follow further, but that can be a nice `init` of processes that *you think* will be done:
+### Bonus section: How do I do?
 
-### How do I do?
+** answering the question "how" on the stage of ideating is something that I personally feel counterproductive to follow further, but that can be a nice `init` of processes that *you think* will be done:
     
 * **when?**
 
     In my free of work time as some hustle I'm enjoying to do.
 
-    Timewise, I have an ultimate desire to tie it to the opening of UiB's INF110 course that ny academic advisor is developing right now, which is Autumn'26. But first and foremost, this is my hobby, and second, I hate deadlines, so I will do it in my tempo, with all the ensuing pauses and stagnations.
+    ~~Timewise, I have an ultimate desire to tie it to the opening of UiB's INF105 course that ny academic advisor is developing right now, which is Autumn'26.~~  
+    First and foremost, this is my hobby, and second, I hate deadlines, so I will do it in my tempo, with all the ensuing pauses and stagnations.
 
 * **where?**
 
     For the start, I'll write my journey in `.md` files and store it in my [GitHub repo](https://github.com/alexpoov/alexpoov). For prototypes, I'm enjoying Figma - UX designer's modern standard. As for tech stack, I'm not sure where I will host it - maybe some remote server or Raspberry Pi or something debian containing. WHat I know is that site will support smt like customized Pandoc for easy blogposts update, and have a photogallery (no even hypothetical solution for that rn). 
 
-    The developing will take part on my beloved PC that I built in September'25 and I like so much. *Funny thing: first time in my life I've intentionally set linux OS instead of anything I had previously on my personal computer for the same reasons I'm doing this series of posts - to skill up*. 
+    The developing will take part on my beloved PC that I built in September'25 and I like so much. *Funny thing: first time in my life I've intentionally set linux OS instead of anything I had previously on my personal computer for the same reasons I'm doing this series of posts - to challenge myself to try something new*. 
     
+
 
