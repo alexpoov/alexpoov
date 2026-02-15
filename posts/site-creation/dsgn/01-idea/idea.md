@@ -22,7 +22,7 @@ Personal webpages doesn't require to run tonnes of research and tests to infer c
 
 * **what it is not?**
 
-    - It's definitely not a set-and-forget visit card   
+    - It's definitely not a set-and-forget visit card. I endorse motivation of some people Like Andrew Heiss that integrated post writing and open sharing into their work processes. I'm not sure I can do it, especially because empty site demotivates you (and I saw dozen of counterexamples of professors sites that just... empty).
     - It's not a static site that you need to edit html every time you want to update it. 
 
 ### Why I do it?

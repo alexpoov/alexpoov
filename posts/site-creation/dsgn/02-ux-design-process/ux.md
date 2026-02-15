@@ -1,3 +1,10 @@
+<!--  -->
+# TODO: 
+* user-centered approach
+* ux design ([src](https://www.nngroup.com/articles/ux-research-cheat-sheet/))
+* feature specification as a bridge between design and dev? ([src](https://medium.com/@a.c.krzyminski/ux-design-concept-vs-feature-e5f65c68f6d2))
+<!--  -->
+
 # World of Designs
 
 ## Background
