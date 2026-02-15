@@ -1,1 +1,2 @@
-- [ ] narrative: not enough structure - would be nice to have sotry about the topic, story about practice. how to implement this? 
+- [ ] narrative: not enough structure - would be nice to have story about the topic, story about practice. how to implement this? 
+- [ ] read about Foundation Models and Dynamic Risk Goverance, and how causality can or cannot help them.
